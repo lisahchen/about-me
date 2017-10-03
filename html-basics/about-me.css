@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+}
+
+.profile img{
+  border-radius: 50%
+}
+
+.profile-image{
+  height: 200px;
+  width: 200px;
+}
